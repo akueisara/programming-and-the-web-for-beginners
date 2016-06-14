@@ -1,6 +1,6 @@
 Programming and the Web for Beginners
 ===================================
-The exercise comes from Programming and Web for Beginners on Coursera. </br>
+The exercises come from Programming and Web for Beginners on Coursera. </br>
 Course webpage: http://www.dukelearntoprogram.com/course1/
 
 1. Functions
