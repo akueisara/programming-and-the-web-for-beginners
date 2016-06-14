@@ -9,13 +9,17 @@ Building a Web Page with HTML and CSS
 ### Build a "My Interests" Web Page with HTML and CSS
 http://akueisara.github.io/course1/example/myinterests.html </br>
 ##### HTML
-Start with a page title like "My Interests" or "Things I Like". </br>
-Add your name as a header.</br>
-Rank your favorite five foods (or books, movies, restaurants, websites, etc...) in an ordered list.</br>
-Identify several places you would like to visit (or classes you would like to take, future jobs you would like to have, people you would like to meet, etc...) in an unordered list.</br>
-Add images</br>
+* Start with a page title like "My Interests" or "Things I Like".
+* Add your name as a header.
+* Rank your favorite five foods (or books, movies, restaurants, websites, etc...) in an ordered list.
+* Identify several places you would like to visit (or classes you would like to take, future jobs you would like to have, people you would like to meet, etc...) in an unordered list.
+* Add images
 
-#####CSS
+##### CSS
+* Make your headers centered on the web page
+* Change the color of some of your text
+* Change the size or location of your images
+* Create a CSS class or use IDs to make specific changes
 
 Learning to Program in JavaScript
 -----------------------------------
