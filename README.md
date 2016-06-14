@@ -8,6 +8,7 @@ Building a Web Page with HTML and CSS
 
 ### Build a "My Interests" Web Page with HTML and CSS
 http://akueisara.github.io/course1/example/myinterests.html </br>
+
 ##### HTML
 * Start with a page title like "My Interests" or "Things I Like".
 * Add your name as a header.
@@ -20,6 +21,8 @@ http://akueisara.github.io/course1/example/myinterests.html </br>
 * Change the color of some of your text
 * Change the size or location of your images
 * Create a CSS class or use IDs to make specific changes
+* Tailor your colors for text to your favorite shade using the RGB values
+* Try changing other colors, including the background of the web page (style the <body> tag using the background-color value), the color used for hyperlinks (style the <a> tag using the color value), the border color of a table (style the <table> tag using the border-color value), or anything else you like
 
 Learning to Program in JavaScript
 -----------------------------------
