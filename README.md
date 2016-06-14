@@ -5,4 +5,4 @@ Course webpage: http://www.dukelearntoprogram.com/course1/
 
 1. Functions
 -----------------------------------
-http://akueisara.github.io/course1/example/Functions.html
+http://akueisara.github.io/course1/example/functions.html
