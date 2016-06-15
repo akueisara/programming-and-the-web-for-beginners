@@ -1,0 +1,28 @@
+body {
+  background-color: lightyellow;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+}
+
+.food {
+  color: green;
+}
+
+#sunset_img {
+  float: right;
+  width: 50%;
+}
+ul li ul li {
+  color: #A14323;
+}
+
+a {
+  color: pink;
+}
+
+table {
+  border: 1px solid orange;
+}
