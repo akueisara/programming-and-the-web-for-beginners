@@ -8,6 +8,7 @@ Building a Web Page in HTML and CSS
 
 ### Build a "My Interests" Web Page in HTML and CSS
 http://akueisara.github.io/course1/example/myinterests.html </br>
+<code> source code: myinterests.html, myinterest_style.css </code>
 
 ##### HTML
 * Start with a page title like "My Interests" or "Things I Like".
@@ -28,10 +29,12 @@ Learning to Program in JavaScript
 -----------------------------------
 
 ### 1. Conditional Execution
-http://akueisara.github.io/course1/example/conditional-execution.html
+http://akueisara.github.io/course1/example/conditional-execution.html </br>
 
 ### 2. Functions
-http://akueisara.github.io/course1/example/functions.html
+http://akueisara.github.io/course1/example/functions.html </br>
+<code> source code: functions.js </code>
 
 ### 3. Steganography
-http://akueisara.github.io/course1/example/steganography.html
+http://akueisara.github.io/course1/example/steganography.html </br>
+<code> source code: steganography.js </code>
