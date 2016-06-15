@@ -46,3 +46,7 @@ http://akueisara.github.io/course1/example/steganography.html </br>
 ### 6. Steganography Extraction and Duplication
 http://akueisara.github.io/course1/example/steganography-extraction-duplication.html </br>
 <code> steganography-extraction-duplication.js </code>
+
+## Mini-Project: Creating Your E-Portfolio
+http://akueisara.github.io/course1/example/e-portfolio.html
+<code> e-portfolio.js </code>
