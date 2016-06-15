@@ -25,16 +25,19 @@ http://akueisara.github.io/course1/example/myinterests.html </br>
 * Tailor your colors for text to your favorite shade using the RGB values
 * Try changing other colors, including the background of the web page (style the <body> tag using the background-color value), the color used for hyperlinks (style the <a> tag using the color value), the border color of a table (style the <table> tag using the border-color value), or anything else you like
 
-Learning to Program in JavaScript
+Basic Image Processing in JavaScript
 -----------------------------------
 
 ### 1. Conditional Execution
 http://akueisara.github.io/course1/example/conditional-execution.html </br>
 
-### 2. Functions
+### 2. Thinking Critically about Your Program
+http://akueisara.github.io/course1/example/thinking-critically.html </br>
+
+### 3. Functions
 http://akueisara.github.io/course1/example/functions.html </br>
 <code> source code: functions.js </code>
 
-### 3. Steganography
+### 4. Steganography
 http://akueisara.github.io/course1/example/steganography.html </br>
 <code> source code: steganography.js </code>
