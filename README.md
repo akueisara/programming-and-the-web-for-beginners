@@ -27,8 +27,11 @@ http://akueisara.github.io/course1/example/myinterests.html </br>
 Learning to Program in JavaScript
 -----------------------------------
 
-### 1. Functions
+### 1. Conditional Execution
+http://akueisara.github.io/course1/example/conditional-execution.html
+
+### 2. Functions
 http://akueisara.github.io/course1/example/functions.html
 
-### 2. Steganography
+### 3. Steganography
 http://akueisara.github.io/course1/example/steganography.html
