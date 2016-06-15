@@ -34,10 +34,13 @@ http://akueisara.github.io/course1/example/conditional-execution.html </br>
 ### 2. Thinking Critically about Your Program
 http://akueisara.github.io/course1/example/thinking-critically.html </br>
 
-### 3. Functions
+### 3. Learning to Program in JavaScript
+http://akueisara.github.io/course1/example/learning-to-program-in-js.html </br>
+
+### 4. Functions
 http://akueisara.github.io/course1/example/functions.html </br>
 <code> source code: functions.js </code>
 
-### 4. Steganography
+### 5. Steganography
 http://akueisara.github.io/course1/example/steganography.html </br>
 <code> source code: steganography.js </code>
