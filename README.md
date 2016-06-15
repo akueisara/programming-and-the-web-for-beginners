@@ -48,5 +48,5 @@ http://akueisara.github.io/course1/example/steganography-extraction-duplication.
 <code> steganography-extraction-duplication.js </code>
 
 ## Mini-Project: Creating Your E-Portfolio
-http://akueisara.github.io/course1/example/e-portfolio.html
+http://akueisara.github.io/course1/example/e-portfolio.html </br>
 <code> e-portfolio.js </code>
