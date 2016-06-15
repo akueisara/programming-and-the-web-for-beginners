@@ -5,7 +5,7 @@ Course webpage: http://www.dukelearntoprogram.com/course1/
 ## Building a Web Page in HTML and CSS
 ### Build a "My Interests" Web Page in HTML and CSS
 http://akueisara.github.io/course1/example/myinterests.html </br>
-<code> source code: myinterests.html, myinterest_style.css </code>
+<code> myinterests.html, myinterest_style.css </code>
 
 ##### HTML
 ###### Start with a page title like "My Interests" or "Things I Like".
@@ -25,20 +25,20 @@ http://akueisara.github.io/course1/example/myinterests.html </br>
 ## Basic Image Processing in JavaScript
 ### 1. Conditional Execution
 http://akueisara.github.io/course1/example/conditional-execution.html </br>
-<code> source code: conditional-execution.js </code>
+<code> conditional-execution.js </code>
 
 ### 2. Thinking Critically about Your Program
 http://akueisara.github.io/course1/example/thinking-critically.html </br>
-<code> source code: thinking-critically.js </code>
+<code> thinking-critically.js </code>
 
 ### 3. Learning to Program in JavaScript
 http://akueisara.github.io/course1/example/learning-to-program-in-js.html </br>
-<code> source code: learning-to-program.js </code>
+<code> learning-to-program.js </code>
 
 ### 4. Functions
 http://akueisara.github.io/course1/example/functions.html </br>
-<code> source code: functions.js </code>
+<code> functions.js </code>
 
 ### 5. Steganography
 http://akueisara.github.io/course1/example/steganography.html </br>
-<code> source code: steganography.js </code>
+<code> steganography.js </code>
