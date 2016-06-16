@@ -1,6 +1,7 @@
 # Programming and the Web for Beginners
 The exercises come from Programming and Web for Beginners on Coursera. </br>
-Course webpage: http://www.dukelearntoprogram.com/course1/
+Course webpage: http://www.dukelearntoprogram.com/course1/ </br>
+Coding environment: http://www.dukelearntoprogram.com/course1/example/index.php
 
 ## Building a Web Page in HTML and CSS
 ### Build a "My Interests" Web Page in HTML and CSS
