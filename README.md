@@ -26,15 +26,15 @@ http://akueisara.github.io/course1/example/myinterests.html </br>
 ## Basic Image Processing in JavaScript
 ### 1. Conditional Execution
 http://akueisara.github.io/course1/example/conditional-execution.html </br>
-<code> conditional-execution.js </code>
+<code> conditional execution.js </code>
 
 ### 2. Thinking Critically about Your Program
 http://akueisara.github.io/course1/example/thinking-critically.html </br>
-<code> thinking-critically.js </code>
+<code> thinking critically.js </code>
 
 ### 3. Learning to Program in JavaScript
 http://akueisara.github.io/course1/example/learning-to-program-in-js.html </br>
-<code> learning-to-program.js </code>
+<code> learning to program.js </code>
 
 ### 4. Functions
 http://akueisara.github.io/course1/example/functions.html </br>
@@ -46,8 +46,8 @@ http://akueisara.github.io/course1/example/steganography.html </br>
 
 ### 6. Steganography Extraction and Duplication
 http://akueisara.github.io/course1/example/steganography-extraction-duplication.html </br>
-<code> steganography-extraction-duplication.js </code>
+<code> steganography extraction duplication.js </code>
 
 ## Mini-Project: Creating Your E-Portfolio
 http://akueisara.github.io/course1/example/e-portfolio.html </br>
-<code> e-portfolio.js </code>
+<code> e_portfolio.js </code>
